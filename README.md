@@ -165,6 +165,7 @@ RegisterNumber:  23013424
 
 1)SR flip flop
 
+
 ![image](https://github.com/AjayM014/Experiment--05-Implementation-of-flipflops-using-verilog/assets/150011759/131c15f1-be47-4423-9315-db8c87e5c507)
 
 
