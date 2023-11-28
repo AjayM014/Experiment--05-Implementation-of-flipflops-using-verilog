@@ -168,15 +168,37 @@ RegisterNumber:  23013424
 
 ![image](https://github.com/AjayM014/Experiment--05-Implementation-of-flipflops-using-verilog/assets/150011759/131c15f1-be47-4423-9315-db8c87e5c507)
 
+2)D flip flop
 
+![image](https://github.com/AjayM014/Experiment--05-Implementation-of-flipflops-using-verilog/assets/150011759/204cf8b4-7584-4113-bf92-d21eb4e2458c)
 
+3)JK flip flop
 
+![image](https://github.com/AjayM014/Experiment--05-Implementation-of-flipflops-using-verilog/assets/150011759/30506db0-2f74-45ea-a398-d7a96a778bbb)
 
+4)T flip flop
+
+![image](https://github.com/AjayM014/Experiment--05-Implementation-of-flipflops-using-verilog/assets/150011759/50ba8813-5e66-462c-bb1b-c2cc061425cd)
 
 
 
 ### TIMING DIGRAMS FOR FLIP FLOPS 
 
+1)SR flip flop
+
+![image](https://github.com/AjayM014/Experiment--05-Implementation-of-flipflops-using-verilog/assets/150011759/bdfefe88-1883-457e-a5fd-b7283af44649)
+
+2)D flip flop
+
+![image](https://github.com/AjayM014/Experiment--05-Implementation-of-flipflops-using-verilog/assets/150011759/c042f0f8-7c9f-4d94-ac51-6e9467615f66)
+
+3)JK flip flop
+
+![image](https://github.com/AjayM014/Experiment--05-Implementation-of-flipflops-using-verilog/assets/150011759/8aa1631e-3ae0-4f68-ba38-bd66b365846a)
+
+4)T flip flop
+
+![image](https://github.com/AjayM014/Experiment--05-Implementation-of-flipflops-using-verilog/assets/150011759/dba9b6ec-4d14-4f78-b278-92eba1848e30)
 
 
 
