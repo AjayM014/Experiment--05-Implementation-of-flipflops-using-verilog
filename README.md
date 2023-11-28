@@ -102,15 +102,58 @@ Q(t+1)=T′Q(t)+TQ(t)′
 ⇒Q(t+1)=T⊕Q(t)
 
 ### Procedure
-/* write all the steps invloved */
+
+1.	Create a New Project:
+
+Open Quartus and create a new project by selecting "File" > "New Project Wizard."
+Follow the wizard's instructions to set up your project, including specifying the project name, location, and target device (FPGA).
+2.	Create a New Design File:
+
+Once the project is created, right-click on the project name in the Project Navigator and select "Add New File."
+Choose "Verilog HDL File" or "VHDL File," depending on your chosen hardware description language.
+3.	Write the Combinational Logic Code:
+
+Open the newly created Verilog or VHDL file and write the code for your combinational logic.
+4.	Compile the Project:
+To compile the project, click on "Processing" > "Start Compilation" in the menu.
+Quartus will analyze your code, synthesize it into a netlist, and perform optimizations based on your target FPGA device.
+5.	Analyze and Fix Errors:
+
+If there are any errors or warnings during the compilation process, Quartus will display them in the Messages window.
+Review and fix any issues in your code if necessary. View the RTL diagram.
+6.	Verification:
+
+Click on "File" > "New" > "Verification/Debugging Files" > "University Program VWF".
+ 
+Once Waveform is created Right Click on the Input/Output Panel > " Insert Node or Bus" > Click on Node Finder > Click On "List" > Select All.
+Give the Input Combinations according to the Truth Table amd then simulate the
+Output Waveform.
 
 
 
 ### PROGRAM 
+
+1)SR flip flop
+
+![image](https://github.com/AjayM014/Experiment--05-Implementation-of-flipflops-using-verilog/assets/150011759/5369bcf0-d5da-47b1-8814-9866de3c73b8)
+
+
+2)D flip flop
+
+![image](https://github.com/AjayM014/Experiment--05-Implementation-of-flipflops-using-verilog/assets/150011759/bfee9eb5-f61c-4edb-b733-e5840f499526)
+
+3)JK flip flop
+
+![image](https://github.com/AjayM014/Experiment--05-Implementation-of-flipflops-using-verilog/assets/150011759/ffd6bf4a-c0d8-4a82-a233-ec2493157884)
+
+4)T flip flop
+
+![image](https://github.com/AjayM014/Experiment--05-Implementation-of-flipflops-using-verilog/assets/150011759/7f29f5d6-d643-4acb-add5-2eca3dfeefcd)
+
 /*
 Program for flipflops  and verify its truth table in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:  
+Developed by: AJAY M
+RegisterNumber:  23013424
 */
 
 
@@ -120,6 +163,9 @@ RegisterNumber:
 
 ### RTL LOGIC FOR FLIPFLOPS 
 
+1)SR flip flop
+
+![image](https://github.com/AjayM014/Experiment--05-Implementation-of-flipflops-using-verilog/assets/150011759/131c15f1-be47-4423-9315-db8c87e5c507)
 
 
 
@@ -138,3 +184,5 @@ RegisterNumber:
 
 
 ### RESULTS 
+
+By this we have verified the truth table of JK and SR using verilog.
